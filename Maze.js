@@ -255,4 +255,3 @@ function getDirectionFromMapIndex(index){
     return [0, 1];
   }
 }
-}
